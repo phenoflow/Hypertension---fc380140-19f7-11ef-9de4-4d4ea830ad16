@@ -1,0 +1,111 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/renovascular-hypertension-ht---primary.py
+inputModule3:
+  class: File
+  path: python/secondary-hypertension-ht---primary.py
+inputModule4:
+  class: File
+  path: python/heartrenal-hypertension-ht---primary.py
+inputModule5:
+  class: File
+  path: python/antihypertensive-hypertension-ht---primary.py
+inputModule6:
+  class: File
+  path: python/hypertension-ht-delivered---primary.py
+inputModule7:
+  class: File
+  path: python/clinic-hypertension-ht---primary.py
+inputModule8:
+  class: File
+  path: python/hypertension-ht-monitoring---primary.py
+inputModule9:
+  class: File
+  path: python/hypertension-ht-treatment---primary.py
+inputModule10:
+  class: File
+  path: python/hypertension-ht-therapy---primary.py
+inputModule11:
+  class: File
+  path: python/hypertension-ht---primary.py
+inputModule12:
+  class: File
+  path: python/hypertension-ht-malignant---primary.py
+inputModule13:
+  class: File
+  path: python/hypertension-ht-puerpnot---primary.py
+inputModule14:
+  class: File
+  path: python/hypertension-ht-control---primary.py
+inputModule15:
+  class: File
+  path: python/essential-hypertension-ht---primary.py
+inputModule16:
+  class: File
+  path: python/systolic-hypertension-ht---primary.py
+inputModule17:
+  class: File
+  path: python/hypertension-ht-review---primary.py
+inputModule18:
+  class: File
+  path: python/hypertension-ht-resolved---primary.py
+inputModule19:
+  class: File
+  path: python/hypertension-ht-crisis---primary.py
+inputModule20:
+  class: File
+  path: python/hypertension-ht-preexisting---primary.py
+inputModule21:
+  class: File
+  path: python/encephalopathy-hypertension-ht---primary.py
+inputModule22:
+  class: File
+  path: python/other-hypertension-ht---primary.py
+inputModule23:
+  class: File
+  path: python/hypertension-ht-thrombosis---primary.py
+inputModule24:
+  class: File
+  path: python/hypertension-ht-ischaemia---primary.py
+inputModule25:
+  class: File
+  path: python/hypertension-ht-infarct---primary.py
+inputModule26:
+  class: File
+  path: python/myocardial-hypertension-ht---primary.py
+inputModule27:
+  class: File
+  path: python/hypertension-ht-embolism---primary.py
+inputModule28:
+  class: File
+  path: python/hypertension-ht-angina---primary.py
+inputModule29:
+  class: File
+  path: python/hypertension-ht-insufficiency---primary.py
+inputModule30:
+  class: File
+  path: python/hypertension-ht-benign---primary.py
+inputModule31:
+  class: File
+  path: python/primary-hypertension-ht---primary.py
+inputModule32:
+  class: File
+  path: python/coronary-hypertension-ht---primary.py
+inputModule33:
+  class: File
+  path: python/cerebrovascular-hypertension-ht---primary.py
+inputModule34:
+  class: File
+  path: python/nephropathy-hypertension-ht---primary.py
+inputModule35:
+  class: File
+  path: python/hypertension---primary.py
+inputModule36:
+  class: File
+  path: python/arterial-hypertension-ht---primary.py
+inputModule37:
+  class: File
+  path: python/output-cases.py
